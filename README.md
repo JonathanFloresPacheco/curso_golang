@@ -11,6 +11,17 @@ El proyecto está organizado de la siguiente manera:
 |── function/           # Carpeta que contiene paquetes y funciones auxiliares.
 │   ├── ex1.go          # Variables, constantes y zero values
 │   ├── ex2.go          # Operadores aritmeticos
+│   ├── ex3.go          # Paquete FMT
+│   ├── ex4.go          # Uso de funciones
+│   ├── ex5.go          # for, For while y for forever
+│   ├── ex6.go          # Operadores lógicos y de comparacion
+│   ├── ex7.go          # Condicional if y convert text number to onli number
+│   ├── ex8.go          # Switch con condicion especifica y sin condicion especifica
+│   ├── ex9.go          # El uso de los keywords defer, break y continue
+│   ├── ex10.go         # Array y Slice
+│   ├── ex11.go         # Recorrido de slices con Range
+│   ├── ex12.go         # Llave valor con maps
+│   ├── ex13.go         # Structs: La forma de hacer clases en Go
 ├── go.mod              # Archivo de configuración del módulo (define el nombre del proyecto y dependencias externas).
 ├── main.go             # Archivo principal que ejecuta el programa y coordina las llamadas a los paquetes.
 └── Read.me             # Archivo que documenta el propósito y la configuración del proyecto.
