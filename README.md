@@ -25,6 +25,12 @@ El proyecto está organizado de la siguiente manera:
 │   ├── ex14.go         # Modificadores de acceso en funciones y Structs ** Explicar más
 │   ├── ex15.go         # Strucs y punteros ** Explicar más
 │   ├── ex16.go         # Stringers: personalizar el output de Structs
+│   ├── ex17.go         # Interfaces y listas de interfaces
+│   ├── ex18.go         # ¿Qué es la concurrencia?
+│   ├── ex19.go         # Primer contacto con las Goroutines
+│   ├── ex20.go         # Channels: La forma de organizar las goroutines *
+│   ├── ex21.go         # Range, Close y Select en channels*
+│   ├── ex22.go         # Go get: El manejador de paquetes
 ├── go.mod              # Archivo de configuración del módulo (define el nombre del proyecto y dependencias externas).
 ├── main.go             # Archivo principal que ejecuta el programa y coordina las llamadas a los paquetes.
 └── Read.me             # Archivo que documenta el propósito y la configuración del proyecto.
