@@ -22,6 +22,9 @@ El proyecto está organizado de la siguiente manera:
 │   ├── ex11.go         # Recorrido de slices con Range
 │   ├── ex12.go         # Llave valor con maps
 │   ├── ex13.go         # Structs: La forma de hacer clases en Go
+│   ├── ex14.go         # Modificadores de acceso en funciones y Structs ** Explicar más
+│   ├── ex15.go         # Strucs y punteros ** Explicar más
+│   ├── ex16.go         # Stringers: personalizar el output de Structs
 ├── go.mod              # Archivo de configuración del módulo (define el nombre del proyecto y dependencias externas).
 ├── main.go             # Archivo principal que ejecuta el programa y coordina las llamadas a los paquetes.
 └── Read.me             # Archivo que documenta el propósito y la configuración del proyecto.
